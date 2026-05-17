@@ -3,6 +3,9 @@ name = "pushit"
 version = "0.1.0"
 edition = "2024"
 authors = ["Collin Dutrow"]
+description = "A small, cross-platform command-line tool for sending push notifications."
+homepage = "https://github.com/collindutrow"
+repository = "https://github.com/collindutrow/pushit"
 license = "MIT"
 
 [dependencies]
